@@ -87,3 +87,4 @@ and STATUS ='non commencées';
 DELETE FROM EMPLOYE
 WHERE nom = 'ALAMI'
 AND prenom = 'AHMED';
+
